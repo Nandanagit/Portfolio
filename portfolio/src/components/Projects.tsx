@@ -1,13 +1,14 @@
 import ProjectCard from "./ProjectCard";
 
 const projects = [
+   {
+    name: "Blogging Application",
+    link: "https://blog-app-bynandana.vercel.app/home",
+    description: "A full-stack blog platform using Next.js, Node.js, and MongoDB with secure authentication, responsive UI, and automated email features."
+  },
   {
     name: "Blogger AI Content Generator",
     description: "Automates SEO-optimized content and image generation using OpenAI and Mistral, with a NestJS backend handling authentication and publishing to Blogger."
-  },
-  {
-    name: "Blogging Application",
-    description: "A full-stack blog platform using Next.js, Node.js, and MongoDB with secure authentication, responsive UI, and automated email features."
   },
   {
     name: "Snavy: Automatic video creation",
