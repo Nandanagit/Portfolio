@@ -1,7 +1,12 @@
 import ProjectCard from "./ProjectCard";
 
 const projects = [
-   {
+  {
+    name: "website creation: a digital marketing website",
+    link: "https://digital-marketing-website-five-alpha.vercel.app/",
+    description: "html, css, javascript"
+  },
+  {
     name: "Blogging Application",
     link: "https://blog-app-bynandana.vercel.app/home",
     description: "A full-stack blog platform using Next.js, Node.js, and MongoDB with secure authentication, responsive UI, and automated email features."
@@ -21,7 +26,8 @@ const projects = [
   {
     name: "Portfolio Website",
     description: "Built with Next.js and Tailwind CSS"
-  }
+  },
+
 ];
 
 export default function Projects() {
