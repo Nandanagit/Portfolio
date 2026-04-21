@@ -2,9 +2,9 @@ import ProjectCard from "./ProjectCard";
 
 const projects = [
   {
-    name: "website creation: a digital marketing website",
+    name: "Website creation",
     link: "https://digital-marketing-website-five-alpha.vercel.app/",
-    description: "html, css, javascript"
+    description: "Created a sample website using html, css, javascript for digital marketing services."
   },
   {
     name: "Blogging Application",
